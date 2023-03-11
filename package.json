@@ -1,0 +1,25 @@
+{
+  "name": "phase_music_player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvilla0000/music_player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvilla0000/music_player/issues"
+  },
+  "homepage": "https://github.com/tvilla0000/music_player#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
